@@ -237,3 +237,7 @@ img{
     width: 56%;
     display: none;
 }
+.musicBtn{
+	position: absolute;
+	right: 0;
+}
